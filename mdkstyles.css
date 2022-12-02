@@ -1,0 +1,11 @@
+
+img {
+    width: 1335px;
+    height: 600px;
+    display:flex;
+}
+
+li{
+    display:inline;
+    padding: 10px;
+}
